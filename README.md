@@ -6,9 +6,9 @@ I'm a passionate woman in tech, making my way in the world as a software enginee
 
 ------------------
 ## About me
-- 🔭 I’m currently working on my NSS capstone project. I am building an app for artists and hobbyists to trade supplies since, artist such as myself tend to hoard craft supplies.
+- 🔭 I’m currently working on my final NSS capstone project and working as a customer experience implemtation engineer for Caregiving.com.
 - 👩🏻 Pronouns: She / Her
-- ⚡ Fun fact: I'm a graphic designer and artist. I also love video games, pretty much every genre.
+- ⚡ Fun facts: I'm a graphic designer and artist. I also love video games, pretty much every genre. I am currently learning Portugese and plan to move to Portugal at some point.
 
 ---------------------
 
@@ -18,6 +18,10 @@ I'm a passionate woman in tech, making my way in the world as a software enginee
 - JavaScript
 - React/Next.js
 - Bootstrap
+- Python
+- SQL
+- Django
+- React Native
 
 ---------------------
 
