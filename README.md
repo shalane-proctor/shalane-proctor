@@ -39,5 +39,5 @@ I'm always interested in taking on new projects and assisting in the development
   </a>
 </p>
 <p align="center">
-  <a href = 'shalane088@gmail.com'><img height=50 width=50 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" /></a>
+  <a href='mailto: shalane088@gmail.com'><img height=50 width=50 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" /></a>
 </p>
