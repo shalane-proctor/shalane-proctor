@@ -20,14 +20,24 @@ I'm always interested in taking on new projects and assisting in the development
 ---------------------
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,html,css,sass,django,py,go,flutter,dart,idea,vscode,webpack,mysql,jquery,graphql,postgres,sqlite,firebase,gcp,docker,kubernetes,figma,androidstudio,babel,bootstrap,codepen,gitlab,netlify,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,html,css,sass,django,py,go,flutter,dart,idea,vscode,webpack,mysql,jquery,graphql,postgres,sqlite,firebase,gcp,docker,kubernetes,figma,androidstudio,bootstrap,codepen,gitlab,netlify,stackoverflow&perline=10)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalane-proctor&layout=compact&theme=cobalt)
 
 ---------------------
 
 ## Connect with me
-[![My Skills](https://skillicons.dev/icons?i=discord,github,linkedin)](https://skillicons.dev)
-<a href = 'shalane088@gmail.com'>📨</a>
-<a href = 'https://www.github.com/shalane-proctor'>👩🏻‍💻</a>
-<a href = 'https://www.linkedin.com/in/shalane-proctor/'>💼</a>
+<p align="center">
+  <a href="discordapp.com/users/purplepariah">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href='https://www.github.com/shalane-proctor'>
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href='https://www.linkedin.com/in/shalane-proctor/'>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<p align="center">
+  <a href = 'shalane088@gmail.com'><img height=50 width=50 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" /></a>
+</p>
