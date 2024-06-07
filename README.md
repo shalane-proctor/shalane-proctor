@@ -8,7 +8,7 @@ I'm always interested in taking on new projects and assisting in the development
 
 ------------------
 ## About me
-- 🔭 Full Stack Implementation Engineer at Caregiving.com.
+- 🔭 Most recent Role: Full Stack Implementation Engineer at Caregiving.com.
 - 🛩️ Assisting with the development of myCopilot.ai
 - 👩🏻 Pronouns: She / Her
 - ⚡ Fun facts: I'm a graphic designer and artist. I also love video games, pretty much every genre. I am currently learning Portugese and plan to move to Portugal at some point.
