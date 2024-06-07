@@ -20,7 +20,7 @@ I'm always interested in taking on new projects and assisting in the development
 ---------------------
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,html,css,sass,django,py,go,flutter,dart,idea,vscode,webpack,mysql,jquery,graphql,postgres,sqlite,firebase,gcp,docker,kubernetes,figma,androidstudio,bootstrap,codepen,gitlab,netlify,stackoverflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,nodejs,html,css,sass,fastapi,django,py,go,flutter,dart,idea,vscode,webpack,mysql,postgres,firebase,gcp,docker,figma,androidstudio,bootstrap,codepen,gitlab,netlify,vercel,supabase,stackoverflow&perline=10)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalane-proctor&layout=compact&theme=cobalt)
 
