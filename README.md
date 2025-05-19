@@ -8,11 +8,11 @@ I'm always interested in taking on new projects and assisting in the development
 
 ------------------
 ## About me
-- 💼 Currently working on personal projects and contracts. ✨Looking for my next role✨
-- 🔭 Most recent Role: Full Stack Implementation Engineer at Caregiving.com.
-- 🛩️ Assisting with the development of myCopilot.ai
+- 💼 Currently working at MyDecisive 🐙
+- 🔭 Previous Roles: Full Stack Implementation Engineer at Caregiving.com & Volunteer Engineer at myCopilot.ai
 - 👩🏻 Pronouns: She / Her
-- ⚡ Fun facts: I'm a graphic designer and artist. I also love video games, pretty much every genre. I am currently learning Portugese.
+- ⚡ Fun facts: I'm a graphic designer and artist. I also love video games, pretty much every genre. I am currently learning Spanish.
+- 🎮 Next personal project goals: I want to learn how to develop video games and someday make my own!
 
 ---------------------
 
