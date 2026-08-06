@@ -8,7 +8,7 @@ My experience spans customer-facing applications, cloud-native platforms, observ
 
 If you're building something interesting, I'd love to hear about it!
 
-🌐 **Portfolio:** https://shalanes-amazing-portfolio.vercel.app/
+<!--  🌐 **Portfolio:** https://shalanes-amazing-portfolio.vercel.app/ -->
 
 ------------------
 ## About Me
