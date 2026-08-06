@@ -1,38 +1,62 @@
 ![Shalane's Banner](https://user-images.githubusercontent.com/94003497/185248522-917ff6bb-2232-4c3b-91c2-e42a7feedb80.png)
 
-### Hi! I'm Shalane! [Check out my portfolio site](https://shalanes-amazing-portfolio.vercel.app/)!
+### Hi! I'm Shalane 👋
 
-I'm a passionate neurodivergent woman in tech, making my way in the world as a software engineer! I am a compassionate team player, innovator, and entrepreneur. I will continue to learn everyday!
+I'm a full-stack software engineer who enjoys solving unfamiliar problems, building thoughtful software, and continuously learning new technologies.
 
-I'm always interested in taking on new projects and assisting in the development of new apps, as well as, helping others develop. Please message me if you are making something cool I can help with!  
+My experience spans customer-facing applications, cloud-native platforms, observability tooling, and full-stack product development. I particularly enjoy working at the intersection of engineering, product, and design to build software that is both technically sound and intuitive to use.
+
+If you're building something interesting, I'd love to hear about it!
+
+🌐 **Portfolio:** https://shalanes-amazing-portfolio.vercel.app/
 
 ------------------
-## About me
-- 💼 Currently working at MyDecisive 🐙
-- 🔭 Previous Roles: Full Stack Implementation Engineer at Caregiving.com & Volunteer Engineer at myCopilot.ai
-- 👩🏻 Pronouns: She / Her
-- ⚡ Fun facts: I'm a graphic designer and artist. I also love video games, pretty much every genre. I am currently learning Spanish.
-- 🎮 Next personal project goals: I want to learn how to develop video games and someday make my own!
+## About Me
+
+- 💼 Full-Stack Software Engineer & Scrum Master at **MyDecisive.ai**
+- 🛠 Previous experience at **Caregiving.com** and **myCopilot.ai**
+- 🌱 Currently exploring Go, cloud-native technologies, and game development
+- 🎨 Outside of engineering I enjoy illustration, graphic design, UI design, and digital art
+- 🎮 Long-term goal: Build my own indie game
+- 💻 Languages I'd like to learn: Rust, C#, & C++
+
+---------------------
+
+## Currently Interested In
+
+- UI/UX & thoughtful software design
+- Game development
+- Cloud-native application development
+- Product engineering
+- Observability
+- Go development
 
 ---------------------
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,js,nextjs,nodejs,css,sass,fastapi,django,py,go,nginx,dart,idea,vscode,webpack,mysql,postgres,firebase,gcp,docker,figma,androidstudio,bootstrap,gitlab,netlify,materialui,kubernetes,aws,grafana&perline=10)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,py,html,css)](https://skillicons.dev)
 
-![Top Langs](https://my-gh-stats-shalane-proctors-projects.vercel.app/api/top-langs/?username=shalane-proctor&layout=compact&theme=cobalt)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,npm,svelte,sass,bootstrap,materialui)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,django,mysql,postgres,firebase)](https://skillicons.dev)
+
+### Cloud & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,nginx)](https://skillicons.dev)
+
+### Developer Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,gitlab,grafana,prometheus)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=figma,svg)](https://skillicons.dev)
 
 ---------------------
 
-## Connect with me
+### Connect with me
 <p align="center">
-  <a href='mailto: shalane088@gmail.com'><img height=50 width=50 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" /></a>
-  <a href="discordapp.com/users/purplepariah">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href='https://www.github.com/shalane-proctor'>
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href='https://www.linkedin.com/in/shalane-proctor/'>
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href='mailto: shalaneproctor@gmail.com'><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href='https://www.github.com/shalane-proctor'><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href='https://www.linkedin.com/in/shalane-proctor/'><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
