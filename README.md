@@ -8,13 +8,13 @@ My experience spans customer-facing applications, cloud-native platforms, observ
 
 If you're building something interesting, I'd love to hear about it!
 
-<!--  🌐 **Portfolio:** https://shalanes-amazing-portfolio.vercel.app/ -->
+🌐 [**Portfolio**](https://shalaneproctorportfolio.vercel.app/)
 
 ------------------
 ## About Me
 
-- 💼 Full-Stack Software Engineer & Scrum Master at **MyDecisive.ai**
-- 🛠 Previous experience at **Caregiving.com** and **myCopilot.ai**
+<!-- - 💼 -->
+- 🛠 Previous experience: **Full-Stack Software Engineer & Scrum Master at MyDecisive.ai**, **Customer Experience Engineer at Caregiving.com**, and **Volunteer Full-Stack Engineer at myCopilot.ai**
 - 🌱 Currently exploring Go, cloud-native technologies, and game development
 - 🎨 Outside of engineering I enjoy illustration, graphic design, UI design, and digital art
 - 🎮 Long-term goal: Build my own indie game
